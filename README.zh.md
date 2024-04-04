@@ -17,7 +17,7 @@
   </p>
 </div>
 
-PaletteGenius is a screen color picker tool designed to improve efficiency for designers and developers.
+PaletteGenius 是一款旨在提高设计师和开发者效率的屏幕颜色选择工具。
 
 ![Palette Genius screenshots-1](./assets/screenshots-1.png)
 ![Palette Genius screenshots-2](./assets/screenshots-2.png)
@@ -26,12 +26,12 @@ PaletteGenius is a screen color picker tool designed to improve efficiency for d
 ![Palette Genius screenshots-5](./assets/screenshots-5.png)
 ![Palette Genius screenshots-6](./assets/screenshots-6.png)
 
-Why do I need to develop this application?
+为什么需要开发这个应用程序呢？
 
-✦ I have always been using the built-in color picker in my system. It is compact and fast, but it has noticeable drawbacks. It cannot display hexadecimal values and it is not easy to copy and convert to other color formats.
+✦ 我一直在使用系统内置的颜色选择器。它既紧凑又快速，但它也有明显的缺点。它无法显示十六进制值，并且不容易复制并转换为其他颜色格式。
 
-✦ Collect popular colors, including colors from popular component libraries and standard color values.
+✦ 收集流行的颜色，包括来自流行组件库和标准颜色值的颜色。
 
-✦ Rich color code formats: covering mainstream platforms and programming languages (iOS, Android, Swift, Objc, CSS, etc.), with keyboard shortcuts for quick code copying.
+✦ 丰富的颜色代码格式：涵盖主流平台和编程语言（iOS、Android、Swift、Objc、CSS 等），并提供快速代码复制的键盘快捷键。
 
-✦ Appearance: supporting light and dark modes.
+✦ 外观：支持浅色和深色模式。
