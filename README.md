@@ -3,7 +3,7 @@
 	<br />
 	<img src="./assets/logo.png" alt="DevHub LOGO" width="160" height="160">
   <p>
-		<a href="./README.md">English</a> • 
+		<a href="./README.zh.md">中文</a> • 
     <a target="_blank" href="https://apps.apple.com/app/palette-genius/id6472593276">AppStore</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
   </p>
