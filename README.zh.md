@@ -1,14 +1,17 @@
 <div align="center">
 	<br />
 	<br />
-	<img src="./assets/logo.png" alt="DevHub LOGO" width="160" height="160">
-  <p>
-		<a href="./README.md">English</a> • 
-    <a target="_blank" href="https://apps.apple.com/app/palette-genius/id6472593276">AppStore</a> • 
-		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
-  </p>
+  <a href="https://wangchujiang.com/palette-genius/">
+	  <img src="./assets/logo.png" alt="DevHub LOGO" width="160" height="160">
+  </a>
 	<h1>Palette Genius</h1>
   <!--rehype:style=border: 0;-->
+  <p>
+		<a href="./README.md">English</a> • 
+    <a target="_blank" href="https://apps.apple.com/app/palette-genius/id6472593276">应用商店</a> • 
+		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a> • 
+    <a href="https://github.com/jaywcjlove/palette-genius/releases">Changelog</a>
+  </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/palette-genius/id6472593276" title="Palette Genius AppStore"><img alt="Palette Genius AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
