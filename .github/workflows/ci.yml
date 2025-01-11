@@ -13,11 +13,30 @@ jobs:
         with:
           node-version: 20
           registry-url: 'https://registry.npmjs.org'
+          
+      - name: Create Tag
+        id: create_tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          test: '[R|r]elease[d]\s+[v|V]\d(\.\d+){0,2}'
+
+      - name: Create Released Tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          version: ${{ steps.create_tag.outputs.version }}
+          release: true
+          body: |
+            <a target="_blank" href="https://apps.apple.com/app/palette-genius/6472593276" title="RightMenu Master for macOS">
+            <img alt="Palette Genius for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+            </a>
+      - name: Get latest tag
+        id: get_latest_tag
+        run: echo "LATEST_TAG=$(git describe --tags $(git rev-list --tags --max-count=1))" >> $GITHUB_ENV
 
       - name: Create idoc config.
         run: |
           cat > idoc.yml << EOF
-          site: "PaletteGenius"
+          site: "PaletteGenius {{version:${{ steps.create_tag.outputs.version }}}}"
           description: PaletteGenius is a screen color picker tool designed to improve efficiency for designers and developers.
           keywords: designers,developers,color picker,convert,popular colors,standard color,color code formats
           favicon: assets/logo.png
