@@ -4,6 +4,18 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/色彩天才/6472593276" title="Palette Genius AppStore"><img alt="Palette Genius AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v1.6.0)
+
+1. feat: add Vuetify color
+2. feat: update Bootstrap color
+3. fix: update status bar menu
+
+---
+
+1. 新增：添加了 Vuetify 配色
+2. 新增：更新了 Bootstrap 配色
+3. 修复：更新了状态栏菜单
+
 ## [v1.5.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v1.5.0)
 
 1. feat: add preset color.
