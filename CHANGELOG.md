@@ -4,6 +4,16 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/色彩天才/6472593276" title="Palette Genius AppStore"><img alt="Palette Genius AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v1.7.0)
+
+1. feat: Implemented code highlighting
+2. feat: Added display for HSBA values
+
+---
+
+1. 新增: 实现了代码高亮功能
+2. 新增: 新增了 HSBA 值显示功能
+
 ## [v1.6.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v1.6.0)
 
 1. feat: add Vuetify color
