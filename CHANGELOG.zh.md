@@ -4,6 +4,11 @@
 <a target="_blank" href="https://apps.apple.com/app/色彩天才/6472593276" title="Palette Genius AppStore"><img alt="Palette Genius AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.1](https://github.com/jaywcjlove/regex-mate/releases/tag/v1.8.1)
+
+1. fix: 修复颜色代码拷贝错误问题
+2. chore: 更新应用主菜单
+
 ## [v1.8.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v1.8.0)
 
 1. feat: 新增颜色选择器。
