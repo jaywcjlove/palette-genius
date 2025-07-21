@@ -4,7 +4,7 @@
   <a href="https://wangchujiang.com/palette-genius/">
 	  <img src="./assets/logo.png" alt="DevHub LOGO" width="160" height="160">
   </a>
-	<h1>Palette Genius</h1>
+	<h1>色彩天才(Palette Genius)</h1>
   <!--rehype:style=border: 0;-->
   <p>
 		<a href="./README.md">English</a> • 
@@ -36,3 +36,9 @@ PaletteGenius 是一款旨在提高设计师和开发者效率的屏幕颜色选
 ✦ 丰富的颜色代码格式：涵盖主流平台和编程语言（iOS、Android、Swift、Objc、CSS 等），并提供快速代码复制的键盘快捷键。
 
 ✦ 外观：支持浅色和深色模式。
+
+<!--idoc:config:
+title: 色彩天才(Palette Genius)
+description: PaletteGenius 是一款屏幕取色工具，专为提升设计师和开发者的工作效率而设计。
+keywords: 设计师,开发者,取色器,转换,流行颜色,标准颜色,颜色代码格式
+-->
