@@ -21,11 +21,14 @@
 PaletteGenius is a screen color picker tool designed to improve efficiency for designers and developers.
 
 ![Palette Genius screenshots-1](./assets/screenshots-1.png)
+
 ![Palette Genius screenshots-2](./assets/screenshots-2.png)
+
 ![Palette Genius screenshots-3](./assets/screenshots-3.png)
+
 ![Palette Genius screenshots-4](./assets/screenshots-4.png)
+
 ![Palette Genius screenshots-5](./assets/screenshots-5.png)
-![Palette Genius screenshots-6](./assets/screenshots-6.png)
 
 Why do I need to develop this application?
 
