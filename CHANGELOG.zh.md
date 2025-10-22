@@ -4,6 +4,10 @@
 <a target="_blank" href="https://apps.apple.com/app/色彩天才/6472593276" title="Palette Genius AppStore"><img alt="Palette Genius AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v2.0.0)
+
+1. 功能：新增对 macOS 26 的支持。
+
 ## [v1.8.1](https://github.com/jaywcjlove/regex-mate/releases/tag/v1.8.1)
 
 1. fix: 修复颜色代码拷贝错误问题
