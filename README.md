@@ -8,12 +8,12 @@
   <!--rehype:style=border: 0;-->
   <p>
 		<a href="./README.zh.md">中文</a> • 
-    <a target="_blank" href="https://apps.apple.com/app/palette-genius/6472593276">AppStore</a> • 
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6472593276">AppStore</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a> • 
     <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/palette-genius/6472593276" title="Palette Genius AppStore"><img alt="Palette Genius AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6472593276" title="Palette Genius AppStore"><img alt="Palette Genius AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>
 </div>

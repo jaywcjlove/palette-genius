@@ -8,12 +8,12 @@
   <!--rehype:style=border: 0;-->
   <p>
 		<a href="./README.md">English</a> • 
-    <a target="_blank" href="https://apps.apple.com/app/色彩天才/6472593276">应用商店</a> • 
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6472593276">应用商店</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a> • 
     <a href="./CHANGELOG.zh.md">更新日志</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/色彩天才/6472593276" title="Palette Genius AppStore"><img alt="Palette Genius AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6472593276" title="Palette Genius AppStore"><img alt="Palette Genius AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>
 </div>
