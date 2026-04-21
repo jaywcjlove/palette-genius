@@ -26,7 +26,7 @@ jobs:
           version: ${{ steps.create_tag.outputs.version }}
           release: true
           body: |
-            <a target="_blank" href="https://apps.apple.com/app/palette-genius/6472593276" title="RightMenu Master for macOS">
+            <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6472593276" title="RightMenu Master for macOS">
             <img alt="Palette Genius for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
             </a>
       - name: Get latest tag
