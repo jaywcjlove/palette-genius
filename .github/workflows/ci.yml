@@ -8,11 +8,10 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
         with:
-          node-version: 20
-          registry-url: 'https://registry.npmjs.org'
+          node-version: 24
           
       - name: Create Tag
         id: create_tag
@@ -50,11 +49,11 @@ jobs:
             - <meta name="author" content="Kenny Wong">
             - <meta property="og:site_name" content="<%= site %>">
             - <meta property="og:url" content="<%=homepage%><%=RESOLVE_PATH%>">
-            - <meta property="og:image" content="<%=homepage%>assets/logo.png">
+            - <meta property="og:image" content="<%=homepage%>assets/social-preview.png">
             - <meta property="og:type" content="application">
             - <meta property="og:title" content="<%= site %>">
             - <meta property="og:description" content="<%= description%>">
-            - <meta property="twitter:image:src" content="<%=homepage%>assets/screenshots-1.png">
+            - <meta property="twitter:image:src" content="<%=homepage%>assets/social-preview.png">
             - <meta property="twitter:site" content="@jaywcjlove">
             - <meta property="twitter:creator" content="jaywcjlove">
             - <meta property="twitter:card" content="summary_large_image">
@@ -74,8 +73,6 @@ jobs:
             - README.zh.md
             - CHANGELOG.md
             - CHANGELOG.zh.md
-            - feedback.md
-            - feedback.zh.md
           footer: |
             <a href="https://wangchujiang.com/#/app" target="_blank">App</a> • 
             <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> • 
@@ -86,6 +83,7 @@ jobs:
 
       - run: npm install idoc@1 -g
       - run: idoc
+      - run: cp -rp assets/social-preview.png dist/assets/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
